@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<meta charset="utf-8">
+	<title>
+                        Contact Me
+	 </title>
+
+</head>
+<body background="back.jpg">
+ <h3 align = "center">
+	      <a href="Contact.html"><img src="girl.jpg" height=280 width=360></a> <font face="Lato" size="5">  
+</font>
+
+		<align="center"><h2><font face="cinzel">
+		<a href="FORKED.html">Home Page</a> &nbsp; &nbsp;
+		<a href="Contact.html">Contact Me</a> &nbsp; &nbsp; 
+		<a href="Me.html">About Me</a> &nbsp; &nbsp; 
+	</h2></font></align>
+
+	 
+<br>
+	<h1> <font face="Lato" color="10216C"  size="7" > Message: <br></font></h1>
+	
+	<h2>Each of us has different battles fighting and contending with. <br>
+		You know in yourself, that you've had some rough days and it is totally alright. <br>
+		It's normal for us humans not to feel okay sometimes. <br>
+		But, keep striving hard and don't ever think to quit. <br>
+		Know that you're doing good and little by little there will always be a progress, <br>
+		doesn't matter if it's a small one. <br><br>
+		Thank you so much for sparing time to visit my simple website. <br> 
+		- Jerlyn Galisfrancisco
+		</h2> 
+
+<br>
+<h1 align = "center">
+  	  <font face="Lato" color="10216C" size="7">
+	      Contact Me 
+	</h1></font>
+
+	     <h2>Email: jerlynxreid@gmail.com<br>
+	     
+	 
+
+</align>	</font> 
+	</h2> 
+
